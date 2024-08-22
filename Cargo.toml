@@ -1,0 +1,9 @@
+[package]
+name = "dragoncurve"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lerp = "0.5.0"
+macroquad = "0.4.4"
+nalgebra = "0.33.0"
